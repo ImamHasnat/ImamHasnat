@@ -1,7 +1,6 @@
 <p style="margin-bottom: 5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=24&pause=200&color=00CFFF&center=false&vCenter=false&width=500&lines=Hi%2C+I'm+Trying+to+learn+more+than+Hello+World;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=20&pause=200&color=00CFFF&center=false&vCenter=false&width=800&lines=Hi%2C+I'm+Trying+to+learn+more+than+Hello+World" />
 </p>
-
 
 <!-- GitHub Stats Side by Side -->
 <div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #003A3A;">
