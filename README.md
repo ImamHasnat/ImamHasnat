@@ -1,5 +1,5 @@
 <p style="margin-bottom: 5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=16&pause=200&color=00CFFF&center=false&vCenter=false&width=350&lines=Hi,I'm Trying+to+learn+more+than+Hello+World;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=24&pause=200&color=00CFFF&center=false&vCenter=false&width=350&lines=Hi,I'm+Trying+to+learn+more+than+Hello+World;" />
 </p>
 
 
