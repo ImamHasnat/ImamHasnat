@@ -1,12 +1,14 @@
 <!-- Typing Header -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=110&color=00CFFF&width=800&lines=Hi%2C+I+tryna+learn+more+than+%22Hello%2C+World%21%22;AI+%7C+ML+%7C+Computer+Vision;Building+projects+and+publishing+research" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=110&color=00CFFF&width=800&lines=Hi%2C+I+tryna+learn+more+than+%22Hello%2C+World%21%22;AI+%7C+ML+%7C+Computer+Vision;Building+projects+and+publishing+research"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- Badges / Links -->
 <p>
-  <!-- LinkedIn (replace yourprofile with your real username) -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/imam-hasnat33" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -35,27 +37,34 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB" alt="GitHub Stats" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB"
+        alt="GitHub Stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=B22222&text_color=4F9B9B" alt="Top Languages" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=B22222&text_color=4F9B9B"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
 <!-- Streak -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=ImamHasnat&hide_border=true&background=000000&ring=87CEEB&fire=B22222&currStreakLabel=4F9B9B&sideLabels=4F9B9B&dates=4F9B9B&currStreakNum=87CEEB&sideNums=87CEEB" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=ImamHasnat&hide_border=true&background=000000&ring=87CEEB&fire=B22222&currStreakLabel=4F9B9B&sideLabels=4F9B9B&dates=4F9B9B&currStreakNum=87CEEB&sideNums=87CEEB"
+    alt="GitHub Streak"
+  />
 </p>
 
-<!-- Activity Graph -->
+<!-- Trophies -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImamHasnat&bg_color=000000&color=4F9B9B&line=87CEEB&point=B22222&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- Trophies (optional, but dynamic) -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ImamHasnat&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ImamHasnat&theme=onedark&no-frame=true&row=1&column=7"
+    alt="Trophies"
+  />
 </p>
 
 <!-- Profile Views (optional) -->
