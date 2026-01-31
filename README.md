@@ -1,7 +1,7 @@
 <!-- Typing Header -->
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=110&color=00CFFF&width=800&lines=Hi%2C+I+tryna+learn+more+than+%22Hello%2C+World%21%22;AI+%7C+ML+%7C+Computer+Vision;Building+projects+and+publishing+research"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=110&color=00CFFF&width=800&lines=Hi%2C+I+tryna+learn+more+than+%22Hello%2C+World%21%22"
     alt="Typing SVG"
   />
 </p>
