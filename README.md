@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=19&pause=110&color=00CFFF&center=false&vCenter=false&width=800&lines=Hi%2C+I+tryna+learn+more+than+%22Hello%2C+World%21%22" />
 </p>
 
-
+.
 
 <!-- GitHub Stats Side by Side -->
 <div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #003A3A;">
